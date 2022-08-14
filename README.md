@@ -13,4 +13,6 @@
 <img src="https://user-images.githubusercontent.com/43926202/182037636-3fde95e4-7ac9-4e65-8061-4696e3551b90.jpg" width="700" height="370"><br>
 ***
 ### 📆 개발 일정
+<img width="756" alt="스크린샷 2022-08-14 오후 8 55 49" src="https://user-images.githubusercontent.com/43926202/184535637-9b6ea8cd-2520-4b32-acea-82b4d73f7178.png">
+
 ***
