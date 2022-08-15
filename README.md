@@ -11,9 +11,8 @@
 ### 👾 게임 컨셉
 <img width="839" alt="스크린샷 2022-08-16 오전 2 53 35" src="https://user-images.githubusercontent.com/43926202/184688966-91a427e0-16d3-43a2-b41a-622ec259f875.png"><br>
 ***
-### 🔎 게임 구성
+### 🔎 게임 구성  [(인게임 구성 보러가기)](https://github.com/Imguma/Platformer_Game_Project/tree/main/1.%20%EC%9D%B8%EA%B2%8C%EC%9E%84%20%EA%B5%AC%EC%84%B1)
 <img width="839" alt="스크린샷 2022-08-16 오전 2 55 58" src="https://user-images.githubusercontent.com/43926202/184689298-3b83ac58-dfce-441f-af1f-1b896502bcf8.png"><br>
-[레벨 디자인 보러가기]()
 ***
 ### 📆 개발 일정
 <img width="756" alt="스크린샷 2022-08-14 오후 8 55 49" src="https://user-images.githubusercontent.com/43926202/184535637-9b6ea8cd-2520-4b32-acea-82b4d73f7178.png"><br>
